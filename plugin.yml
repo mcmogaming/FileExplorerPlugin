@@ -1,0 +1,7 @@
+name: FileExplorer
+main: com.gmail.mcmogaming.FileExplorerPlugin.FileExplorer
+version: 1.2.0
+commands:
+   file: 
+      description: This allows you enter in file commands
+      usage: /file
